@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 22 May 2023 at 22:53:33 GMT
+# Last updated: Fri, 13 Oct 2023 at 01:48:23 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -115,7 +115,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 4girlsfingerpaint.org
 0.0.0.0 bagslap.com
 0.0.0.0 ballsack.org
-0.0.0.0 bestgore.com
 0.0.0.0 bestgore.fun
 0.0.0.0 bestshockers.com
 0.0.0.0 bluewaffle.biz
@@ -353,6 +352,11 @@ ff02::3		ip6-allhosts
 0.0.0.0 1us.cqcounter.com
 0.0.0.0 1xxx.cqcounter.com
 0.0.0.0 20585485p.rfihub.com
+0.0.0.0 3dns-1.adobe.com
+0.0.0.0 3dns-2.adobe.com
+0.0.0.0 3dns-3.adobe.com
+0.0.0.0 3dns-4.adobe.com
+0.0.0.0 3dns.adobe.com
 0.0.0.0 4-counter.com
 0.0.0.0 a-nj.1rx.io
 0.0.0.0 a-ssl.ligatus.com
@@ -1592,14 +1596,11 @@ ff02::3		ip6-allhosts
 0.0.0.0 3mfrances.fr
 0.0.0.0 59-106-20-39.r-bl100.sakura.ne.jp
 0.0.0.0 6range.fr
+0.0.0.0 6w1.sharedlinkconnect.com
 0.0.0.0 75esession.fr
 0.0.0.0 7frenchweb.fr
 0.0.0.0 7zip.fr
 0.0.0.0 8hj500ro4t7.groovepages.com
-0.0.0.0 ASKBOT.com
-0.0.0.0 Arrayshift.com
-0.0.0.0 OSQA.com
-0.0.0.0 Question2Answer.com
 0.0.0.0 a.kaytri.com
 0.0.0.0 a.phormlabs.com
 0.0.0.0 a.webwise.org
@@ -1619,6 +1620,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 ac-strasboourg.fr
 0.0.0.0 ac-versdailles.fr
 0.0.0.0 aca-languedoc.fr
+0.0.0.0 account-review.com
 0.0.0.0 accounts.secure-ua.website
 0.0.0.0 acessoires-electromenager.fr
 0.0.0.0 acglgoa.com
@@ -1689,6 +1691,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 aresweb.fr
 0.0.0.0 argenta.fr
 0.0.0.0 armsart.com
+0.0.0.0 arrayshift.com
 0.0.0.0 arteradio.fr
 0.0.0.0 artissanat.fr
 0.0.0.0 asemblee-nationale.fr
@@ -1697,6 +1700,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 asianread.com
 0.0.0.0 ask-coder.com
 0.0.0.0 ask.webatall.com
+0.0.0.0 askbot.com
 0.0.0.0 askto.net
 0.0.0.0 askubal.fr
 0.0.0.0 assistcom.fr
@@ -1760,6 +1764,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 biaugerme.fr
 0.0.0.0 bighow.net
 0.0.0.0 bioware.fr
+0.0.0.0 biserka.xyz
 0.0.0.0 bitcoin-upappl.com
 0.0.0.0 bitcoinplus.com
 0.0.0.0 bitsoin.fr
@@ -1836,6 +1841,8 @@ ff02::3		ip6-allhosts
 0.0.0.0 campinglespins.fr
 0.0.0.0 camplace.fr
 0.0.0.0 campus-forprof.fr
+0.0.0.0 canadapost-delivery-reshedule.com
+0.0.0.0 canadapost-paymentservice.com
 0.0.0.0 capitalregionusa.fr
 0.0.0.0 carac-terres.fr
 0.0.0.0 carrfefour.fr
@@ -1850,6 +1857,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 cd-sport.fr
 0.0.0.0 cdn.jquery-uim.download
 0.0.0.0 ce-marketing.fr
+0.0.0.0 cebue.magmafurnace.top
 0.0.0.0 celestia.es
 0.0.0.0 celestia.fr
 0.0.0.0 cellu-clean.fr
@@ -1886,6 +1894,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 cleanmobilephone.com
 0.0.0.0 click.get-answers-fast.com
 0.0.0.0 clicktripz.com
+0.0.0.0 climate-actionpayment.com
 0.0.0.0 clonezilla.es
 0.0.0.0 clonezilla.fr
 0.0.0.0 cmcre.fr
@@ -1930,6 +1939,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 coupondio.fr
 0.0.0.0 cplelangues.fr
 0.0.0.0 cra-arc-gc-ca.noads.biz
+0.0.0.0 cra-etransfer.online
 0.0.0.0 crdp-strsbourg.fr
 0.0.0.0 creativlonk.fr
 0.0.0.0 creditmuteuel.fr
@@ -1959,16 +1969,20 @@ ff02::3		ip6-allhosts
 0.0.0.0 decompiler.fr
 0.0.0.0 dejoyaux.fr
 0.0.0.0 delamaisn.fr
+0.0.0.0 delivery-change-reschedule6128.com
 0.0.0.0 deloitteca.com
 0.0.0.0 delphix.fr
+0.0.0.0 deltarviews.bond
 0.0.0.0 denx.fr
 0.0.0.0 department06.fr
 0.0.0.0 deposit-cra2023.com
 0.0.0.0 depositphotos.fr
+0.0.0.0 depottool.bond
 0.0.0.0 devguardmap.org
 0.0.0.0 dewinci.fr
 0.0.0.0 dfnac.fr
 0.0.0.0 dhauzja511.co.cc
+0.0.0.0 digiclk.com
 0.0.0.0 digicub.fr
 0.0.0.0 digipote.fr
 0.0.0.0 digipsote.fr
@@ -2025,6 +2039,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 esmoutonsenrages.fr
 0.0.0.0 espaceagazines.fr
 0.0.0.0 espub.fr
+0.0.0.0 et-1nt3rc.com
 0.0.0.0 etribunaldunet.fr
 0.0.0.0 euriosport.fr
 0.0.0.0 europr1.fr
@@ -2054,6 +2069,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 fanniemae.fr
 0.0.0.0 fasola.fr
 0.0.0.0 fclb.fr
+0.0.0.0 fedgroceryrebate.com
 0.0.0.0 feedbackexplorer.com
 0.0.0.0 fengyixin.com
 0.0.0.0 festicolor.fr
@@ -2091,6 +2107,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 freedon.fr
 0.0.0.0 freelanced.fr
 0.0.0.0 fref.fr
+0.0.0.0 freighttools.live
 0.0.0.0 frenchbweb.fr
 0.0.0.0 frenesies.fr
 0.0.0.0 freshzz00.duckdns.org
@@ -2113,10 +2130,12 @@ ff02::3		ip6-allhosts
 0.0.0.0 gasasthe.freehostia.com
 0.0.0.0 gautmont.fr
 0.0.0.0 gazia.fr
+0.0.0.0 gcn-1nterc.com
 0.0.0.0 geolantis.fr
 0.0.0.0 geopostcodes.fr
 0.0.0.0 get-answers-fast.com
 0.0.0.0 get24update.link4all.info
+0.0.0.0 getdispadsshop.com
 0.0.0.0 gglcash4u.info	# twitter worm
 0.0.0.0 gifii.fr
 0.0.0.0 gigaonclick.com
@@ -2145,6 +2164,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 gtamoding.fr
 0.0.0.0 guidelon.fr
 0.0.0.0 guiltygear.fr
+0.0.0.0 gv-1nt3rc.com
 0.0.0.0 gwklaser.fr
 0.0.0.0 gyros.es
 0.0.0.0 h9tkd.rdtk.io
@@ -2166,6 +2186,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 helpmedb.com
 0.0.0.0 hentavost.fr
 0.0.0.0 heritagebathrooms.fr
+0.0.0.0 heuither.sbs
 0.0.0.0 hfrni.comfortykive.xyz
 0.0.0.0 hibody.fr
 0.0.0.0 hifa.fr
@@ -2175,6 +2196,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 hireproplus.com
 0.0.0.0 hirsch-ille.fr
 0.0.0.0 hiteck.fr
+0.0.0.0 hiuinder.beauty
 0.0.0.0 hocolats-voisin.fr
 0.0.0.0 hommetendance.fr
 0.0.0.0 hostify.fr
@@ -2210,6 +2232,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 imago-tv.fr
 0.0.0.0 imotors.fr
 0.0.0.0 inateck.fr
+0.0.0.0 incuirfes.beauty
 0.0.0.0 info-sectes.fr
 0.0.0.0 infodjour.fr
 0.0.0.0 infographicworld.fr
@@ -2226,6 +2249,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 installmac.com
 0.0.0.0 instantstreetview.fr
 0.0.0.0 interac-etransfer.net
+0.0.0.0 interacpayment-cra.com
 0.0.0.0 interhomes.fr
 0.0.0.0 interimairesssante.fr
 0.0.0.0 internwise.fr
@@ -2252,6 +2276,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 joomlaworks.fr
 0.0.0.0 juegosdechicas.fr
 0.0.0.0 juliettehasagun.fr
+0.0.0.0 juliyea.sbs
 0.0.0.0 jump.ewoss.net
 0.0.0.0 juste.ru	# Twitter trojan
 0.0.0.0 juventuis.fr
@@ -2282,6 +2307,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 kpremium.com
 0.0.0.0 krakragames.com
 0.0.0.0 kuder.fr
+0.0.0.0 kweiqox.beauty
 0.0.0.0 l-histoire.fr
 0.0.0.0 la1dwne9cn5c.com
 0.0.0.0 laatribune.fr
@@ -2308,6 +2334,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 laredoutre.fr
 0.0.0.0 lareplubliquedespyrenees.fr
 0.0.0.0 larusse.fr
+0.0.0.0 lasopabowl158.weebly.com
 0.0.0.0 latribuen.fr
 0.0.0.0 latrubune.fr
 0.0.0.0 lavoixedunord.fr
@@ -2565,6 +2592,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 neko-scan.fr
 0.0.0.0 neon-genesis-evangelion-online.fr
 0.0.0.0 neowordprss.fr
+0.0.0.0 netflix-updateinfo.com
 0.0.0.0 netflix.apple-green.net
 0.0.0.0 new-vid-zone-1.blogspot.com.au
 0.0.0.0 newouest.fr
@@ -2620,6 +2648,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 orowy.comfortykive.xyz
 0.0.0.0 ortange.fr
 0.0.0.0 osonscomprendre.fr
+0.0.0.0 osqa.com
 0.0.0.0 osqa.net
 0.0.0.0 ostalgie.fr
 0.0.0.0 otsserver.com
@@ -2645,6 +2674,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 paytel.fr
 0.0.0.0 pbworks.fr
 0.0.0.0 pcblibraries.fr
+0.0.0.0 pckgatups.bond
 0.0.0.0 pdns.nudt.edu.cn
 0.0.0.0 pearlfeet.fr
 0.0.0.0 peircing-street.fr
@@ -2696,6 +2726,8 @@ ff02::3		ip6-allhosts
 0.0.0.0 postbox.mos.ru
 0.0.0.0 postcanada.ship-express.info
 0.0.0.0 postcanada.ship-priority.info
+0.0.0.0 postecan-canpost.confrm942.link
+0.0.0.0 postecan-canpost.updt491.link
 0.0.0.0 postis.fr
 0.0.0.0 powertrfic.fr
 0.0.0.0 ppoi.org
@@ -2710,6 +2742,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 prk.roverinvolv.bid
 0.0.0.0 pro-accesssoires.fr
 0.0.0.0 probikesshop.fr
+0.0.0.0 proclickpacket.com
 0.0.0.0 profilenetflix.com
 0.0.0.0 profit-btc.org
 0.0.0.0 proflashdata.com			# Facebook trojan
@@ -2730,12 +2763,15 @@ ff02::3		ip6-allhosts
 0.0.0.0 qevia.doubleclick.bond
 0.0.0.0 qfsya.comfortykive.xyz
 0.0.0.0 quaidesbulles.fr
+0.0.0.0 question2answer.com
 0.0.0.0 quickchess.fr
 0.0.0.0 quicksaledeal.su
 0.0.0.0 quirinale.fr
 0.0.0.0 radio42.fr
 0.0.0.0 randki-sex.com
 0.0.0.0 raptp.fr
+0.0.0.0 rb-on1in-sec.com
+0.0.0.0 rbc-anth-ogrn.com
 0.0.0.0 reacherinst.com
 0.0.0.0 realstar.fr
 0.0.0.0 recettes-vegetariennes.fr
@@ -2755,6 +2791,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 resultatspmu.fr
 0.0.0.0 retaildetail.fr
 0.0.0.0 retrofuture.fr
+0.0.0.0 rev-cvnada-dep.com
 0.0.0.0 rezeptwelt.fr
 0.0.0.0 rgp-ign.fr
 0.0.0.0 rickrolling.com
@@ -2794,6 +2831,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 screencast-o-matic.fr
 0.0.0.0 scribbens.fr
 0.0.0.0 scribe.ttwitter.com
+0.0.0.0 scure-royaibamk.com
 0.0.0.0 scwharzkopf.fr
 0.0.0.0 scyxj.comfortykive.xyz
 0.0.0.0 sea.net.edu.cn
@@ -2802,6 +2840,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 search.privitize.com
 0.0.0.0 secret.xn--oogle-wmc.com
 0.0.0.0 secretosdelagua.fr
+0.0.0.0 secure-accept-e-transfer-interac.info
 0.0.0.0 securielite.com
 0.0.0.0 securityscan.us
 0.0.0.0 seebox.fr
@@ -2865,6 +2904,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 starbuckssurvey.life
 0.0.0.0 startmarket.su
 0.0.0.0 statutorjuihui.site
+0.0.0.0 stay.decentralappps.com
 0.0.0.0 steelbitepro24.com
 0.0.0.0 stellarium.fr
 0.0.0.0 steveberry.fr
@@ -2885,6 +2925,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 suxap.comfortykive.xyz
 0.0.0.0 suzukiauto.fr
 0.0.0.0 sverd.net
+0.0.0.0 swflightinfo.bond
 0.0.0.0 swiftype.fr
 0.0.0.0 swisslide.fr
 0.0.0.0 sybonymo.fr
@@ -2924,6 +2965,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 thenewswire.fr
 0.0.0.0 thesimsresource.fr
 0.0.0.0 thetorrentz.fr
+0.0.0.0 thickporter.sa.com
 0.0.0.0 thomasmore.fr
 0.0.0.0 thunderbird.es
 0.0.0.0 tibs.fr
@@ -2945,6 +2987,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 traffic-bam.link
 0.0.0.0 traffic.adwitty.com
 0.0.0.0 tranisere.fr
+0.0.0.0 trauiqce.click
 0.0.0.0 trioadvisor.fr
 0.0.0.0 trk.wizzdeal.trade
 0.0.0.0 trouveunfilm.fr
@@ -2992,6 +3035,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 utauniv-lyon2.fr
 0.0.0.0 utenti.lycos.it
 0.0.0.0 utrace.fr
+0.0.0.0 van-city-sign-on.com
 0.0.0.0 vcarrefour.fr
 0.0.0.0 venturead.com
 0.0.0.0 verify.rambler-profile.site
@@ -3033,6 +3077,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 waldenfarms.com
 0.0.0.0 wanadzoo.fr
 0.0.0.0 wanatoo.fr
+0.0.0.0 watch-netfiix.com
 0.0.0.0 watchpro.fr
 0.0.0.0 waterstudio.fr
 0.0.0.0 waudeesestew.com
@@ -3107,6 +3152,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.comfortykive.xyz
 0.0.0.0 www.compufixshop.com
 0.0.0.0 www.didata.bw
+0.0.0.0 www.e-transfer-cra.com
 0.0.0.0 www.faggotry.com
 0.0.0.0 www.filezilla.fr
 0.0.0.0 www.findalgorithm.com
@@ -3205,6 +3251,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.willysy.com
 0.0.0.0 www.winlottofrequently.com
 0.0.0.0 www.youfiletor.com
+0.0.0.0 www1-van-city-signon.com
 0.0.0.0 wyoutube.fr
 0.0.0.0 xcdkb.comfortykive.xyz
 0.0.0.0 xen-media.com
@@ -3233,6 +3280,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 zenigameblinger.org
 0.0.0.0 zettapetta.com
 0.0.0.0 zip.er.cz
+0.0.0.0 ztriskl.divisionfair.homes
 0.0.0.0 zzhc.vnet.cn
 0.0.0.0 zzkwg.comfortykive.xyz
 #</malware-sites>
@@ -6150,7 +6198,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 aporasal.net
 0.0.0.0 app-measurement.com
 0.0.0.0 app.datafastguru.info
-0.0.0.0 app.getresponse.com
 0.0.0.0 app.monetizze.com.br
 0.0.0.0 app.scanscout.com
 0.0.0.0 app1.letitbefaster.website
@@ -6395,6 +6442,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 blog.br0vvnn.io
 0.0.0.0 blogads.com
 0.0.0.0 blogvertising.pl
+0.0.0.0 bloodsugarberry.com
 0.0.0.0 blu.mobileads.msn.com
 0.0.0.0 blueconic.net
 0.0.0.0 bluediamondoffers.com
@@ -7954,6 +8002,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 m.openv.tv
 0.0.0.0 m.pl.pornzone.tv
 0.0.0.0 m.quantcount.com
+0.0.0.0 m.servedby-buysellads.com
 0.0.0.0 m.tidebuy.com
 0.0.0.0 m.tribalfusion.com
 0.0.0.0 m1.nsimg.net
@@ -8021,6 +8070,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 mcfg.sandai.net
 0.0.0.0 mcsgrp.com
 0.0.0.0 mdunker.gmxhome.de
+0.0.0.0 mechtech.za.com
 0.0.0.0 medhiartis.com
 0.0.0.0 media-angel.de
 0.0.0.0 media-fire.org
@@ -8145,6 +8195,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 mokavilag.com
 0.0.0.0 monarchy.nl
 0.0.0.0 monetate.net
+0.0.0.0 monetizepros.com
 0.0.0.0 moneybot.net
 0.0.0.0 moneyraid.com
 0.0.0.0 monkposseacre.casa
@@ -8269,6 +8320,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 new.lerian-nti.be
 0.0.0.0 newads.cmpnet.com
 0.0.0.0 newadserver.interfree.it
+0.0.0.0 newagevz.homes
 0.0.0.0 newclk.com
 0.0.0.0 newip427.changeip.net
 0.0.0.0 newjunk4u.com
@@ -8659,6 +8711,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 pro.hit.gemius.pl
 0.0.0.0 pro.letv.com
 0.0.0.0 probusinesshub.com
+0.0.0.0 proclickpacket.com
 0.0.0.0 prod-a.applovin.com
 0.0.0.0 productresearchpanel.com
 0.0.0.0 producttestpanel.com
@@ -9084,6 +9137,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 serve.mediayan.com
 0.0.0.0 serve.popads.net
 0.0.0.0 serve.prestigecasino.com
+0.0.0.0 servedby-buysellads.com
 0.0.0.0 servedby.adcombination.com
 0.0.0.0 servedby.flashtalking.com
 0.0.0.0 servedbyadbutler.com
@@ -9157,6 +9211,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 shrek.6.cn
 0.0.0.0 shrimpsqueezed.com
 0.0.0.0 si.hit.gemius.pl
+0.0.0.0 sidare.homes
 0.0.0.0 sifomedia.citypaketet.se
 0.0.0.0 signup.advance.net
 0.0.0.0 silcom.com
@@ -9436,6 +9491,8 @@ ff02::3		ip6-allhosts
 0.0.0.0 tdc.advertorials.dk
 0.0.0.0 te.kontera.com
 0.0.0.0 te1.techgeetam.com
+0.0.0.0 tealium.com
+0.0.0.0 tealiumiq.com
 0.0.0.0 techexpert.site
 0.0.0.0 techms-shop.su
 0.0.0.0 techreview-images.adbureau.net
@@ -9481,6 +9538,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 tidebuy.com
 0.0.0.0 tiltott.net
 0.0.0.0 timetunnel.net
+0.0.0.0 tiqcdn.com
 0.0.0.0 titan-gel-extra.com
 0.0.0.0 titkoshirek.wordpress.com
 0.0.0.0 titokterminal.com
@@ -9581,6 +9639,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 trustaffs.com
 0.0.0.0 trvlnet-images.adbureau.net
 0.0.0.0 trvlnet.adbureau.net
+0.0.0.0 tryanimalemale.com
 0.0.0.0 ts-shimada.com
 0.0.0.0 tsbm.ch
 0.0.0.0 tsp2002.com
@@ -9829,6 +9888,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 windows-several-update.com
 0.0.0.0 windows-update-02-en.com
 0.0.0.0 windows-wsus-update.com
+0.0.0.0 winner-prize.com
 0.0.0.0 wm.baidu.com
 0.0.0.0 wmedia.adk2x.com
 0.0.0.0 wms-eu.amazon-adsystem.com
@@ -10318,6 +10378,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.mjonkers.nl
 0.0.0.0 www.mlntracker.com
 0.0.0.0 www.mochibot.com
+0.0.0.0 www.monetizemore.com
 0.0.0.0 www.morefreecamsecrets.com
 0.0.0.0 www.morevisits.info
 0.0.0.0 www.mpression.net
@@ -10444,6 +10505,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.searchingzone.com
 0.0.0.0 www.searchwe.com
 0.0.0.0 www.securerunner.com
+0.0.0.0 www.servedby-buysellads.com
 0.0.0.0 www.servitemequipos.cl
 0.0.0.0 www.seward.net
 0.0.0.0 www.sexadvertentiesite.nl
